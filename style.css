@@ -300,7 +300,7 @@ body {
   font-family: "TASA Explorer";
   margin: auto 200px;
   border-radius: 20px;
-  padding-bottom: 250px;
+  padding-bottom: 400px;
 }
 
 .container div {
@@ -312,16 +312,19 @@ body {
 .container div.windows {
   grid-area: windows;
   text-align: center;
+  padding: 40px;
 }
 
 .container div.mac {
   grid-area: mac;
   text-align: center;
+  padding: 40px;
 }
 
 .container div.linux {
   grid-area: linux;
   text-align: center;
+  padding: 40px;
 }
 
 .gridButton {
